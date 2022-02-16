@@ -1,0 +1,9 @@
+- [ ] I have run a spell check on text parts.
+- [ ] I have listed dependencies (e.g. with the renv R package).
+- [ ] I have put together a clear README.
+- [ ] I have added a lifecycle badge to the README or some sentences about the project status.
+- [ ] I have listed all authors.
+- [ ] I have listed contact information.
+- [ ] I have added citation information in the README and/or a [citation.cff](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-citation-files) file.
+- [ ] I have written how to re-run the code, e.g. in a main script that has commands.
+- [ ] I have documented datasets with dataspice.
