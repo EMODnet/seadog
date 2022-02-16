@@ -1,5 +1,5 @@
 Package: seadog
-Title: What the Package Does (One Line, Title Case)
+Title: Checklists for EMODnet data products
 Version: 0.0.0.9000
 Authors@R: 
     person("Maëlle", "Salmon", , "msmaellesalmon@gmail.com", role = c("cre", "aut"),
@@ -11,3 +11,8 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.2
 URL: https://github.com/maelle/seadog
 BugReports: https://github.com/maelle/seadog/issues
+Imports: 
+    brio,
+    gert,
+    gh,
+    rlang
