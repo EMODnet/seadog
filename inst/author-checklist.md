@@ -6,4 +6,5 @@
 - [ ] I have listed contact information.
 - [ ] I have added citation information in the README and/or a [citation.cff](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-citation-files) file.
 - [ ] I have written how to re-run the code, e.g. in a main script that has commands.
-- [ ] I have documented datasets with dataspice.
+- [ ] I have documented datasets e.g. with dataspice.
+- [ ] I have created a changelog (NEWS.md) for keeping tracks of changes.

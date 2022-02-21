@@ -2,9 +2,12 @@
 % Please edit documentation in R/author-checklist.R
 \name{advise_author}
 \alias{advise_author}
+\alias{advise_reviewer}
 \title{Create a data product checklist in a GitHub issue}
 \usage{
 advise_author(repo = NULL)
+
+advise_reviewer(repo = NULL)
 }
 \arguments{
 \item{repo}{GitHub repository of the data product e.g. \code{"maelle/seadog"}}
