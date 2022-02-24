@@ -2,6 +2,7 @@
 
 - [ ] I have used EMODnet data product template.
 - [ ] I have put together a clear README.
+- [ ] I have added [EMODnet recommended metadata](https://github.com/EMODnet/seadog/blob/main/inst/author-checklist.md).
 - [ ] I have run a spell check on text parts.
 
 ## Authorship and citation

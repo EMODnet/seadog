@@ -1,6 +1,7 @@
 ## General
 
 - [ ] The README gave a good overview.
+- [ ] The product includes [EMODnet recommended metadata](https://github.com/EMODnet/seadog/blob/main/inst/author-checklist.md).
 
 ## Authorship and citation
 
