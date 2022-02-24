@@ -8,7 +8,7 @@
     - [ ] geographic coverage (MRGIDs from MarineRegions);
     - [ ] if applicable: Taxonomic coverage (AphiaIDs from WoRMS)
     - [ ] what datasets does this product uses? List the IMIS dasids, and/or DOIs from datasets not listed in IMIS.
-- [ ] The product includes [EMODnet recommended metadata](https://github.com/EMODnet/seadog/blob/main/inst/metadata-template.md).
+   - [ ] Is this product a continuation of an older product? Does it uses another product? If yes, please provide its IMIS dasid.
 
 ## Authorship and citation
 
