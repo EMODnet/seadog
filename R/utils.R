@@ -18,6 +18,8 @@ obtain_repo <- function(repo) {
     url <- sub("\\.git$", "", url)
     url <- sub("^https://github.com", "", url)
     repo <- sub("^git@github.com:", "", url)
+    repo <- sub("/$", "", repo)
+    repo <- sub("^/", "", repo)
     return(repo)
   }
 }

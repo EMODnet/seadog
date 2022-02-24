@@ -15,6 +15,8 @@ You can install the development version of seadog from [GitHub](https://github.c
 remotes::install_github("maelle/seadog")
 ```
 
+Then check your [GitHub credentials situation](https://usethis.r-lib.org/articles/git-credentials.html).
+
 ## Example
 
 Create a data product checklist in a GitHub issue:
