@@ -35,3 +35,10 @@ seadog::advise_reviewer()
 
 * [authors](inst/author-checklist.md)
 * [reviewers](inst/reviewer-checklist.md)
+
+## Further information
+
+Some information containing the metadata required:
+* The EMODnet-Biology submission form: https://www.emodnet-biology.eu/contribute
+* The EMODnet Ingestion submission system: https://submission.emodnet-ingestion.eu/
+* This guide (slide 4): https://www.emodnet-biology.eu/sites/emodnet-biology.eu/files/public/tutorials/Guidance_How_to_share_biodiversity_data.pdf

@@ -1,11 +1,19 @@
 ## General
 
-- [ ] The README gave a good overview.
+- [ ] The README gave a good overview and includes
+    - [ ] a title;
+    - [ ] a description of about 300 words;
+    - [ ] keywords;
+    - [ ] temporal coverage;
+    - [ ] geographic coverage (MRGIDs from MarineRegions);
+    - [ ] if applicable: Taxonomic coverage (AphiaIDs from WoRMS)
+    - [ ] what datasets does this product uses? List the IMIS dasids, and/or DOIs from datasets not listed in IMIS.
 - [ ] The product includes [EMODnet recommended metadata](https://github.com/EMODnet/seadog/blob/main/inst/metadata-template.md).
 
 ## Authorship and citation
 
 - [ ] There is citation information.
+    - [ ] The citation format in the README is: Last name, First name. Year. Title.
 - [ ] There is authors, and contact information.
 
 ## Code
