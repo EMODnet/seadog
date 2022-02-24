@@ -1,7 +1,7 @@
 ## General
 
 - [ ] I have used EMODnet data product template.
-- [ ] I have put together a clear README including
+- [ ] I have put together a clear README including (potentially via rendering dataspice JSON)
     - [ ] a title;
     - [ ] a description of about 300 words;
     - [ ] keywords;
