@@ -2,7 +2,7 @@
 
 - [ ] The README gave a good overview and includes
     - [ ] a title;
-    - [ ] a description of about 300 words;
+    - [ ] a description of about 300 words (including context, story);
     - [ ] keywords;
     - [ ] temporal coverage;
     - [ ] geographic coverage (MRGIDs from MarineRegions);
