@@ -3,7 +3,7 @@
 - [ ] I have used EMODnet data product template.
 - [ ] I have put together a clear README including (potentially via rendering dataspice JSON)
     - [ ] a title;
-    - [ ] a description of about 300 words;
+    - [ ] a description of about 300 words (including context, story);
     - [ ] keywords;
     - [ ] temporal coverage;
     - [ ] geographic coverage (MRGIDs from MarineRegions);
