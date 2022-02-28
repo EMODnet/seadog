@@ -16,6 +16,7 @@ remotes::install_github("maelle/seadog")
 ```
 
 Then check your [GitHub credentials situation](https://usethis.r-lib.org/articles/git-credentials.html).
+On Linux also read [this blog post by Danielle Navarro](https://blog.djnavarro.net/posts/2021-08-08_git-credential-helpers/).
 
 ## Example
 
