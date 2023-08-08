@@ -10,7 +10,7 @@ advise_author(repo = NULL)
 advise_reviewer(repo = NULL)
 }
 \arguments{
-\item{repo}{GitHub repository of the data product e.g. \code{"maelle/seadog"}}
+\item{repo}{GitHub repository of the data product e.g. \code{"EMODnet/seadog"}}
 }
 \description{
 Create a data product checklist in a GitHub issue

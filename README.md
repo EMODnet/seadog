@@ -12,7 +12,7 @@ You can install the development version of seadog from [GitHub](https://github.c
 
 ``` r
 # install.packages("remotes")
-remotes::install_github("maelle/seadog")
+remotes::install_github("EMODnet/seadog")
 ```
 
 Then check your [GitHub credentials situation](https://usethis.r-lib.org/articles/git-credentials.html).

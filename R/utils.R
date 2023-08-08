@@ -9,7 +9,7 @@ obtain_repo <- function(repo) {
       rlang::abort(
         c(
           x = "Could not identify a GitHub repo.",
-          i = "Use the `repo` argument e.g. `advise_author(repo = 'maelle/seadog')` or use the checklists directly."
+          i = "Use the `repo` argument e.g. `advise_author(repo = 'EMODnet/seadog')` or use the checklists directly."
         )
       )
     }
